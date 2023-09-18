@@ -46,6 +46,7 @@ header{
 }
 
 main {
+	text-align: center;
 	width: 95.5%;
 	margin-left: 2.2%;
 	margin-top: 15px;
@@ -105,3 +106,6 @@ footer {
 .debr:hover {
 	width: 15%;
 }	
+
+.down {
+}
